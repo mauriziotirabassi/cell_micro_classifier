@@ -1,9 +1,5 @@
 # White Blood Cell Microscopy Classifier
 
-Deep learning pipeline for classifying white blood cells from microscopy images using pretrained CNNs and transfer learning.
-
-## Overview
-
 The project focuses on multi-class classification of WBC images, replacing manual feature engineering with automatic feature extraction from pretrained convolutional networks. The pipeline includes data cleaning, imbalance handling, augmentation, and model interpretability.
 
 ## Dataset
