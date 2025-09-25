@@ -20,3 +20,9 @@ The project focuses on multi-class classification of WBC images, replacing manua
 - Best local F1 score: 98.75%  
 - Best online score: 85%  
 - Final model: EfficientNetV2M + custom dense classifier
+
+## Authors
+
+- M. Alipoor  
+- G. Annaloro  
+- M. Tirabassi
